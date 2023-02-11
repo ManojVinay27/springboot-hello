@@ -6,9 +6,9 @@
 - Install Java
 - Install GIT
 - Install Maven
-```{
+```
 
-## Clone code from github:
+## Cl one code from github:
 
 ```bash
 git clone https://github.com/Naresh240/springboot-hello.git
