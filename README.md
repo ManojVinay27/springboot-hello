@@ -7,7 +7,7 @@
 - Install GIT
 - Install Maven
 ```
-
+{
 ## Cl one code from github:
 
 ```bash
