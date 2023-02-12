@@ -6,7 +6,7 @@
 - Install Java
 - Install GIT
 - Install Maven
-```
+```{
 
 ## Cl one code from github:
 
